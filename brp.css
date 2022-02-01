@@ -1,0 +1,60 @@
+body {
+  background-color:	black ;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #363636;
+  width: 50%;
+  height: 1000px;
+}
+
+#usuario {
+  padding: 50px;
+}
+
+#user {
+  border-radius: 10px;
+  border-style: none;
+  padding: 10px 80px 10px;
+}
+
+#testar {
+  border-radius: 10px;
+  border-style: none;
+  padding: 10px;
+  background-color: wheat;
+}
+
+#teste {
+  width: 90%;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: wheat;
+  height: 500px;
+  border-radius: 10px 150px 10px 150px;
+}
+
+#myInput {
+  border-radius: 10px;
+  border-style: none;
+  padding: 10px 80px 10px;
+  margin-top: 50px;
+}
+
+#copy {
+  margin-top: 20px;
+  border-radius: 10px;
+  border-style: none;
+  padding: 10px;
+  background-color: wheat;
+}
+
